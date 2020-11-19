@@ -1,11 +1,3 @@
-# github-examples
- A repository.. on github
+# An (oversimplified, unqualified) introduction to Github!
 
-
-# hello, friends!  
-This is some markdown text.  
-
-
-*Typically*, it would be used to actually provide a description.  
-
-Me? I just roll with the flow.
+Hooray!! Exciting times in 2275—we've finished the most recent midterm, and are turning our gazes to the next Big Thing$^{TM}$.
