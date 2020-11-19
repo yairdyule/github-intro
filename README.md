@@ -18,7 +18,7 @@ As defined in Chapter 1.1 of the ['Git textbook'](https://git-scm.com/book/en/v2
 
 It will help too get some terms out of the way, so that we can proceed to.. well, getting a few more terms out of the way. 
 * __Repository__ (affectionately: Repo): A 
-
+![Screenshot](/images/git_flow_image.png)
 # Our use case
 
 Go ahead and navigate on over to 'tutorial.md'
