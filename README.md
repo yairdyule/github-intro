@@ -16,7 +16,7 @@ We've decided to require the use of Github in your projects for several reasonsâ
 # Version control
 As defined in Chapter 1.1 of the ['Git textbook'](https://git-scm.com/book/en/v2), source control is a system that records changes to a file or set of files over time so that you can recall specific versions later. This becomes especially useful when our programming is taken out of the realm of submitting a cpp file on canvas, and instead to 'hey let's simultaneously work on (see: *make changes to*) the same project!', or 'wow, I sure want my TA to be able to see that someone has made changes to my code!'. Nowadays, we're in the latter realm. Luckily, this requires very little in the way of adaptations on your end, and what *is* required, we'll be going over. Plus, it's super cool, truly valuable knowledge.
 
-It will help too get a term out of the way, so that we can proceed to.. well, getting a few more terms out of the way. 
+It will help to get a term out of the way, so that we can proceed to.. well, getting a few more terms out of the way. 
 * __Repository__ (affectionately: Repo): A place for all of your project's code to go. 
 
 Go ahead and navigate on over to 'tutorial.md'
