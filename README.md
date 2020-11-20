@@ -28,7 +28,7 @@ Go ahead and navigate on over to 'tutorial.md'
   <img src="images/cloneUrl.png" />
 </p>
 
-```git add``` [filename] - This will allow you to add the file to your next commit.
+```git add [filename]``` - This will allow you to add the file to your next commit.
 
 ```git commit -m [message]``` - This will allow you to commit your new changes.
 Note: The [message] portion in your commit command is pretty useful. You can add descriptions of exactly what changes were made. This makes it easier to look back on commits and figure out what each commit did (i.e. what broke when)
