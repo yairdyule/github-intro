@@ -22,18 +22,18 @@ It will help too get a term out of the way, so that we can proceed to.. well, ge
 Go ahead and navigate on over to 'tutorial.md'
 
 # Review
-git clone [cloneurl] - This will allow you to clone the repo that you would like to access and work with.
+```git clone [cloneurl]``` - This will allow you to clone the repo that you would like to access and work with.
 
 <p align="center">
   <img src="images/cloneUrl.png" />
 </p>
 
-git add [filename] - This will allow you to add the file to your next commit.
+```git add``` [filename] - This will allow you to add the file to your next commit.
 
-git commit m [message] - This will allow you to commit your new changes.
-Note: The [message] portioin in your commit command is pretty useful. You can add descriptions of exactly what changes were made. This makes it easier to look back on commits and figure out what each commit did.
+```git commit -m [message]``` - This will allow you to commit your new changes.
+Note: The [message] portion in your commit command is pretty useful. You can add descriptions of exactly what changes were made. This makes it easier to look back on commits and figure out what each commit did (i.e. what broke when)
 
-git push origin main - This will push your commits to the main branch.
+```git push origin main``` - This will push your commits to the main branch. You *can* use the abbreviated ```git push``` if you aren't branched (a topic we won't cover in depth here).
 
 Note: If you know there have been changed made to the repo since you last worked on it, make sure to do the following command to update your cloned repo.
 

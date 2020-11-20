@@ -9,7 +9,7 @@ Here's a great diagram that illustrates the concepts we will need for our purpos
 
 Notice the areas referred to in the blobs.
 
-# Blobs
+# Terminology
 * __Working directory__: This is the folder (directory) in which you are editing your files, in your text editor (VSCode, Sublime, etc).
 
 * __Staging area__: This is where the files you've decided to track (via ``git add``) in your working directory will reside, until you *commit* them to the...
