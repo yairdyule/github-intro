@@ -24,9 +24,13 @@ Go ahead and navigate on over to 'tutorial.md'
 # Review
 git clone [cloneurl] - This will allow you to clone the repo that you would like to access and work with.
 
+<p align="center">
+  <img src="images/cloneUrl.png" />
+</p>
+
 git add [filename] - This will allow you to add the file to your next commit.
 
-git commit -m [message] - This will allow you to commit your new changes.
+git commit m [message] - This will allow you to commit your new changes.
 Note: The [message] portioin in your commit command is pretty useful. You can add descriptions of exactly what changes were made. This makes it easier to look back on commits and figure out what each commit did.
 
 git push origin master - This will push your commits to the main branch.
