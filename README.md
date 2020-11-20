@@ -35,4 +35,6 @@ Note: The [message] portioin in your commit command is pretty useful. You can ad
 
 git push origin main - This will push your commits to the main branch.
 
+Note: If you know there have been changed made to the repo since you last worked on it, make sure to do the following command to update your cloned repo.
 
+git pull
