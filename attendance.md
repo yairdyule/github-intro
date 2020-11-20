@@ -3,3 +3,5 @@ Kindly fork this repo, add your name(s, if you're a group), add whatever idea yo
 When you're done, go back to your forked repo & make a pull request (which I can then accept, and your changes will be reflected in the main repo). Thrilling!
 
 * Jared Jewell, BJ Kim. We're doing a cool project, super top-secret tho. Here's the link: https://foo,bar.com/
+
+* Isaac Scott. Not sure if this will work and I am not sure what project I am going to do.
