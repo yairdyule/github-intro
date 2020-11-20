@@ -7,8 +7,6 @@ When you're done, go back to your forked repo & make a pull request (which I can
 
 * Ty VanEssen. I'm doing something with word analysis. Here's the link: https://github.com/Xensi-Git/DictionaryAnalysis
 
-* Jared Jewell, BJ Kim. We're doing a cool project, super top-secret tho. Here's the link: https://foo,bar.com/
-
 * Isaac Scott. Not sure if this will work and I am not sure what project I am going to do.
 
 * Ryan Quinlan, Samyak Ghimire. We have no idea what we're doing :). Here's the link: https://github.com/rsquinlan/Quinlan_Ghimire_2275Project
