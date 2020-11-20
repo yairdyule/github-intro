@@ -5,7 +5,7 @@ When you're done, go back to your forked repo & make a pull request (which I can
 
 * Jared Jewell, BJ Kim. We're doing a cool project, super top-secret tho. Here's the link: https://foo,bar.com/
 
-* Lauren Funston. My idea right now is to make something like a family tree. Here's the link: https://github.com/lafu9989/github-intro.git
+* Lauren Funston. My idea right now is to make something like a family tree. Here's the link: https://github.com/lafu9989/csci2275final
 
 * Ty VanEssen. I'm doing something with word analysis. Here's the link: https://github.com/Xensi-Git/DictionaryAnalysis
 
