@@ -3,3 +3,5 @@ Kindly fork this repo, add your name(s, if you're a group), add whatever idea yo
 When you're done, go back to your forked repo & make a pull request (which I can then accept, and your changes will be reflected in the main repo). Thrilling!
 
 * Jared Jewell, BJ Kim. We're doing a cool project, super top-secret tho. Here's the link: https://foo,bar.com/
+
+* Lauren Funston. My idea right now is to make something like a family tree. Here's the link: https://github.com/lafu9989/github-intro.git
