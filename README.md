@@ -35,6 +35,6 @@ Note: The [message] portion in your commit command is pretty useful. You can add
 
 ```git push origin main``` - This will push your commits to the main branch. You *can* use the abbreviated ```git push``` if you aren't branched (a topic we won't cover in depth here).
 
-Note: If you know there have been changed made to the repo since you last worked on it, make sure to do the following command to update your cloned repo.
+Note: If you know there have been changes made to the repo since you last worked on it (say, by your partner), make sure to do the following command to update your cloned repo.
 
-git pull
+```git pull```
