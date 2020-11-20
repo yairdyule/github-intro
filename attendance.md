@@ -4,3 +4,4 @@ When you're done, go back to your forked repo & make a pull request (which I can
 
 * Jared Jewell, BJ Kim. We're doing a cool project, super top-secret tho. Here's the link: https://foo,bar.com/
 * Ryan Quinlan, Samyak Ghimire. We have no idea what we're doing :). Here's the link: https://github.com/rsquinlan/Quinlan_Ghimire_2275Project
+* Abraham Scott, Isaac Scott. We have no idea either. Here's the link: https://github.com/amscott0/AbrahamS_IsaacS_FinalProject
