@@ -22,13 +22,16 @@ It will help to get a term out of the way, so that we can proceed to.. well, get
 Go ahead and navigate on over to 'tutorial.md'
 
 # Review
+
+__Relevant terminal commands__
+
 ```git clone [cloneurl]``` - This will allow you to clone the repo that you would like to access and work with.
 
 <p align="center">
   <img src="images/cloneUrl.png" />
 </p>
 
-```git add [filename]``` - This will allow you to add the file to your next commit.
+```git add [filename]``` - This will allow you to add the file to your next commit. ```git add .``` is an abbreviated command which stages all of the changed files.
 
 ```git commit -m [message]``` - This will allow you to commit your new changes.
 Note: The [message] portion in your commit command is pretty useful. You can add descriptions of exactly what changes were made. This makes it easier to look back on commits and figure out what each commit did (i.e. what broke when)
